@@ -1,2 +1,2 @@
 # LevelUp-Wapuu
-LevelUp Wapuu Desigb
+LevelUp Wapuu Design
